@@ -7,15 +7,6 @@
   
 **What Will Be Discussed?**
   You will learn about some interesting facts...
-
-**Introduction**
-  You will learn about the history of ancient
-  You will learn about the how the survive their life
-**License Types**
-  Licenses for text / documentation
-  Licenses for fonts
-  Licenses for code
-
   
 **Introduction**
   Ancient South Americans, not Egyptians, invented the mummification process. The Chinchorro people of Chile’s Atacama Desert had been mummifying their dead for 2,000 years prior to the Egyptians. They peeled back the corpse’s skin, removed the muscles and organs, and filled the body with plants before sewing the skin back on and placing a mask over the face.
